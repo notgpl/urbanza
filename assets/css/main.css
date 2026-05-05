@@ -219,7 +219,7 @@ p {
 }
 
 @media (max-width: 780px) {
-  .header .logo img { max-height: 40px; }
+  .header .logo img { max-height: 23px; }
 }
 
 /* ============================================================
